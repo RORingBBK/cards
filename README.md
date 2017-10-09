@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**TODO: Sample card application using elixir**
 
 ## Installation
 
